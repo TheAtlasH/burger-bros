@@ -36,7 +36,7 @@ class App {
     burgersWrapper.insertAdjacentHTML("afterbegin", html);
   }
   _orderHandler() {
-    console.log(clicked);
+    console.log("clicked");
   }
 }
 
